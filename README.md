@@ -1,2 +1,2 @@
 # movielist
-netflic movie audio and images
+netflix movie audio and images
